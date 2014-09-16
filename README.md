@@ -1,6 +1,7 @@
 # Licensing information for third-party libraries
 
-This directory contains third-party dependencies for streamkinect2. This file
+This directory contains third-party dependencies for
+[streamkinect2.net](https://github.com/rjw57/streamkinect2.net). This file
 documents any distribution or licensing restrictions associated with them. The
 streamkinect2 license does not necessarily cover these files.
 
